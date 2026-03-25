@@ -45,7 +45,7 @@ olist-churn-analysis/
 │   └── olist_churn_dashboard.pbix  # Power BI dashboard (3 pages)
 │
 ├── reports/
-│   └── insight_report.docx [📄 View Business Insight Report]([YOUR GOOGLE DRIVE LINK HERE](https://docs.google.com/document/d/1Zap8H_3bmwwkbPs4BIO397Dra8oIFISV/edit?usp=drive_link&ouid=104837620425403070448&rtpof=true&sd=true))       # Business insight report
+│   └── insight_report.docx [📄 View Business Insight Report](https://docs.google.com/document/d/1Zap8H_3bmwwkbPs4BIO397Dra8oIFISV/edit?usp=drive_link&ouid=104837620425403070448&rtpof=true&sd=true)      # Business insight report
 │
 └── README.md
 ```
