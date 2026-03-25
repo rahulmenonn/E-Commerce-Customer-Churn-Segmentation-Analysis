@@ -45,7 +45,7 @@ olist-churn-analysis/
 │   └── olist_churn_dashboard.pbix  # Power BI dashboard (3 pages)
 │
 ├── reports/
-│   └── insight_report.docx [📄 View Business Insight Report](https://docs.google.com/document/d/1Zap8H_3bmwwkbPs4BIO397Dra8oIFISV/edit?usp=drive_link&ouid=104837620425403070448&rtpof=true&sd=true)      # Business insight report
+│   └── insight_report.docx    # Business insight report
 │
 └── README.md
 ```
@@ -183,6 +183,8 @@ Churn risk distribution, segment-level risk breakdown, spend vs recency scatter 
 
 **Page 3 — Recommendations**
 Revenue and satisfaction by segment, three strategic insight panels with data-backed recommendations.
+
+[📄 View Business Insight Report](https://docs.google.com/document/d/1Zap8H_3bmwwkbPs4BIO397Dra8oIFISV/edit?usp=drive_link&ouid=104837620425403070448&rtpof=true&sd=true) 
 
 ---
 
