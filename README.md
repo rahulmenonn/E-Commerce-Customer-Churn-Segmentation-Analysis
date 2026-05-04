@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Customer Churn & Segmentation Analysis
-### OLIST Brazilian E-Commerce Dataset | Python · SQL · Power BI
+### OLIST Brazilian E-Commerce Dataset | Python · Power BI
 
 ---
 
